@@ -12,5 +12,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pusher-growth/pusher-remark-themes.git"
+  }
 }
