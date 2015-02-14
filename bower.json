@@ -7,7 +7,6 @@
   "description": "Themes used in Pusher remarkjs presentations",
   "license": "MIT",
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
