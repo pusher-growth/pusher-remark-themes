@@ -134,7 +134,7 @@ h1, h2, h3, h4 {
 }
 
 .remark-slide-content.bg-light {
-  background: url('img/galaxy_background.png'), -webkit-radial-gradient(center, ellipse cover, #45b1c4 0%,#2f9fb7 100%);
+  background: url('./img/galaxy_background.png'), -webkit-radial-gradient(center, ellipse cover, #45b1c4 0%,#2f9fb7 100%);
   background-color: #2f9fb7;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
@@ -144,7 +144,7 @@ h1, h2, h3, h4 {
 }
 
 .remark-slide-content.bg-dark {
-  background: url('img/code-back.jpg'), -webkit-radial-gradient(center, ellipse cover, #192B37 0%,#192B37 100%);
+  background: url('./img/code-back.jpg'), -webkit-radial-gradient(center, ellipse cover, #192B37 0%,#192B37 100%);
   background-color: #192B37;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
