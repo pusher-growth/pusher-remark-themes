@@ -226,18 +226,9 @@ h1, h2, h3, h4 {
   font-weight: 300;
 }
 
-.remark-slide ul,
+.remark-slide ul, 
 .remark-slide ol {
-  text-align: left;
-  margin: auto;
-  display: inline-block;
-  font-size: 1.1em;
-}
-
-.remark-slide ul ul,
-.remark-slide ul ol {
   display: block;
-  font-size: 1em;
 }
 
 .remark-slide .block ul {
