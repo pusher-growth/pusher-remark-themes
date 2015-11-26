@@ -229,6 +229,7 @@ h1, h2, h3, h4 {
 .remark-slide ul, 
 .remark-slide ol {
   display: block;
+  text-align: left;
 }
 
 .remark-slide .block ul {
@@ -286,7 +287,17 @@ h1, h2, h3, h4 {
 }
 
 .remark-slide .bg-white {
+  color: #000;
   background-color: #ffffff;
+}
+
+.remark-slide .bg-white a,
+.remark-slide .bg-white a:visited {
+  color: #000;
+}
+
+.remark-slide .bg-white blockquote {
+  color: #fff;
 }
 
 /* Quotes */
